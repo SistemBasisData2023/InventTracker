@@ -1,1 +1,2 @@
-# InventTracker
+# InvenTracker
+Website Inventaris Barang
